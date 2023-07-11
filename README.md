@@ -1,9 +1,9 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
 
-<hr>
-
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+![Saque](https://github.com/Jheimys/monibank/assets/80724830/abc48226-bf07-4ea1-ad80-62ee39d9d054)
+<div align="center">
+ <h1>MoniBank</h1>
+ <p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+</div>
 
 # O Projeto
 O projeto Monibank foi o produto final do Curso Javascript: Validando formulários da Alura. Na tela de formulário criamos mensagens 
@@ -40,10 +40,8 @@ através das situações abaixo:
  - manipulação de DOM para imprimir mensagens de erro;
  - localStorage para salvar os dados. Mesmo que nosso formulário seja local, é necessário que suas informações sejam salvas em um local específico.
 
- 
-## Tecnologias utilizadas durante o curso
-* JavaScript
 
 ## Tecnologias utilizadas no projeto
+* JavaScript
 * HTML
 * CSS
